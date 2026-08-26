@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme-hero.svg" alt="Tree Poetic Editorial Collage Skill" width="100%" />
+  <img src="assets/readme-hero.jpg" alt="Tree Poetic Editorial Collage Skill" width="100%" />
 </p>
 
 <h1 align="center">Tree · Poetic Editorial Collage Skill</h1>
@@ -135,7 +135,7 @@ This repository uses the Agent Skills folder convention so Codex can discover an
 Tree-Poetic-Collage-Skill/
 ├── README.md
 ├── assets/
-│   └── readme-hero.svg
+│   └── readme-hero.jpg
 └── skills/
     └── photo-poetic-editorial-collage/
         ├── SKILL.md
