@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme-hero.png" alt="Tree Poetic Editorial Collage Skill" width="100%" />
+  <img src="assets/readme-hero.svg" alt="Tree Poetic Editorial Collage Skill" width="100%" />
 </p>
 
 <h1 align="center">Tree · Poetic Editorial Collage Skill</h1>
@@ -30,7 +30,7 @@ The lower half is **not** a literal redraw of the photograph. Every source image
 ## Example
 
 <p align="center">
-  <img src="skills/photo-poetic-editorial-collage/assets/example-output.png" alt="Poetic editorial collage example" width="720" />
+  <img src="skills/photo-poetic-editorial-collage/assets/example-output.svg" alt="Poetic editorial collage example" width="720" />
 </p>
 
 This example interprets the Temple of Heaven through stacked roof silhouettes, circles, steps, printed texture, architectural rhythm, and sparse poetic notes rather than reproducing the scene literally.
@@ -135,15 +135,15 @@ This repository uses the Agent Skills folder convention so Codex can discover an
 Tree-Poetic-Collage-Skill/
 ├── README.md
 ├── assets/
-│   └── readme-hero.png
+│   └── readme-hero.svg
 └── skills/
     └── photo-poetic-editorial-collage/
         ├── SKILL.md
         ├── agents/
         │   └── openai.yaml
         └── assets/
-            ├── icon.png
-            └── example-output.png
+            ├── icon.svg
+            └── example-output.svg
 ```
 
 ## Design principles
