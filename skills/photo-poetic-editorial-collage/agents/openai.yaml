@@ -1,8 +1,8 @@
 interface:
   display_name: "Tree · Poetic Editorial Collage"
   short_description: "Turn photos into adaptive poetic editorial collage art direction."
-  icon_small: "../assets/icon.png"
-  icon_large: "../assets/example-output.jpg"
+  icon_small: "../assets/icon.svg"
+  icon_large: "../assets/example-output.svg"
   brand_color: "#D39A2F"
   default_prompt: "Use this reference image to create an adaptive poetic editorial collage. Interpret the image first; do not apply a fixed template."
 
