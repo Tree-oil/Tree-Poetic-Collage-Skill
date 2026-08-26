@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme-hero1.svg" alt="Tree Poetic Editorial Collage Skill" width="100%" />
+  <img src="assets/rehero.png" alt="Tree Poetic Editorial Collage Skill" width="100%" />
 </p>
 
 <h1 align="center">Tree · Poetic Editorial Collage Skill</h1>
