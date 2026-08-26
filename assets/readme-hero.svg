@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Tree Poetic Editorial Collage Skill</title>
+<desc id="desc">A tactile editorial collage banner inspired by the Temple of Heaven, paper textures, circles, ink marks and poetic annotations.</desc>
+<defs>
+  <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="8" result="n"/><feColorMatrix in="n" type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .08"/></feComponentTransfer></filter>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a9d7e2"/><stop offset="1" stop-color="#e8dcc3"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="#f3ead7"/>
+<rect width="1600" height="415" fill="url(#sky)"/>
+<g transform="translate(420,58)">
+  <circle cx="380" cy="15" r="16" fill="#c98e2c"/>
+  <path d="M380 35 L350 70 L342 105 L265 145 L150 190 L95 235 L665 235 L610 190 L495 145 L418 105 L410 70 Z" fill="#242829"/>
+  <path d="M120 235 Q380 310 640 235 L610 285 Q380 350 150 285 Z" fill="#2c302f"/>
+  <rect x="175" y="285" width="410" height="100" fill="#9f3424"/>
+  <g fill="#c99a43"><rect x="200" y="305" width="40" height="60"/><rect x="270" y="305" width="40" height="60"/><rect x="340" y="305" width="40" height="60"/><rect x="410" y="305" width="40" height="60"/><rect x="480" y="305" width="40" height="60"/><rect x="550" y="305" width="20" height="60"/></g>
+  <rect x="145" y="385" width="470" height="20" fill="#d9cfb8"/>
+</g>
+<path d="M0 415 H1600" stroke="#322f2a" stroke-width="2" opacity=".15"/>
+<g transform="translate(0,415)">
+  <circle cx="260" cy="190" r="150" fill="#91bac6" opacity=".8"/>
+  <circle cx="260" cy="190" r="100" fill="none" stroke="#d49a2e" stroke-width="9"/>
+  <g transform="translate(100,190) scale(.7)"><path d="M280 0 L235 55 L95 120 L40 180 L520 180 L465 120 L325 55 Z" fill="#252927"/><path d="M65 180 Q280 245 495 180 L465 225 Q280 280 95 225 Z" fill="#252927"/><path d="M120 225 Q280 280 440 225 L410 265 Q280 310 150 265 Z" fill="#252927"/></g>
+  <rect x="170" y="390" width="300" height="125" fill="#b8482b" opacity=".9"/>
+  <rect x="230" y="425" width="90" height="90" fill="none" stroke="#242829" stroke-width="3"/>
+  <path d="M275 515 v95" stroke="#242829" stroke-width="3"/>
+  <path d="M520 130 v330" stroke="#2f302d" stroke-width="2" opacity=".35"/>
+  <circle cx="775" cy="205" r="24" fill="#d39a2f"/>
+  <text x="605" y="100" font-family="Georgia,serif" font-size="33" font-style="italic" fill="#35322d">circle of sky</text>
+  <text x="605" y="143" font-family="Georgia,serif" font-size="33" font-style="italic" fill="#35322d">three roofs</text>
+  <text x="605" y="186" font-family="Georgia,serif" font-size="33" font-style="italic" fill="#35322d">one breath</text>
+  <g transform="translate(980,70)"><rect width="280" height="42" fill="#567b7d"/><path d="M30 20 h220" stroke="#d8be78" stroke-width="6" stroke-dasharray="12 10"/><path d="M20 105 Q140 35 260 105 Z" fill="#2c2a27"/><rect x="38" y="145" width="230" height="52" fill="#ae422c"/><rect x="70" y="161" width="160" height="18" fill="#d5a443"/></g>
+  <circle cx="1260" cy="335" r="70" fill="#8bb7c4"/>
+  <path d="M1260 260 v150" stroke="#2f302d" stroke-width="3"/>
+  <circle cx="1260" cy="430" r="5" fill="#2f302d"/><circle cx="1260" cy="455" r="5" fill="#2f302d"/><circle cx="1260" cy="480" r="5" fill="#2f302d"/>
+  <text x="930" y="510" font-family="Georgia,serif" font-size="27" font-style="italic" fill="#3a3833">step by step toward the heart of quiet.</text>
+  <g stroke="#2f302d" stroke-width="3"><path d="M1325 510 h170"/><path d="M1340 535 h145"/><path d="M1340 560 h145"/><path d="M1340 585 h145"/></g>
+  <rect x="0" y="0" width="1600" height="485" filter="url(#grain)" opacity=".8"/>
+</g>
+<text x="70" y="80" font-family="Helvetica,Arial,sans-serif" font-size="20" letter-spacing="5" fill="#2d2d2a">TREE / SKILL 001</text>
+<text x="70" y="122" font-family="Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#2d2d2a">POETIC EDITORIAL COLLAGE</text>
+<text x="72" y="158" font-family="Georgia,serif" font-size="22" font-style="italic" fill="#4a4741">Interpret first · translate second · never template the image.</text>
+</svg>
