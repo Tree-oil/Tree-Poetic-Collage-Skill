@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1086 1448" role="img" aria-labelledby="title desc">
+<title id="title">Poetic editorial collage example</title>
+<desc id="desc">A stylized Temple of Heaven photograph-to-collage translation used as the example for the Tree poetic editorial collage skill.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9fd2e2"/><stop offset="1" stop-color="#efe2cb"/></linearGradient>
+  <filter id="paper"><feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" seed="4"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .09"/></feComponentTransfer></filter>
+</defs>
+<rect width="1086" height="1448" fill="#f4ebd8"/>
+<rect width="1086" height="670" fill="url(#sky)"/>
+<g transform="translate(185,28)">
+  <circle cx="358" cy="15" r="18" fill="#c8902d"/>
+  <path d="M358 35 L320 84 L305 130 L235 165 L135 210 L75 255 L641 255 L581 210 L481 165 L411 130 L396 84 Z" fill="#222829"/>
+  <path d="M100 255 Q358 330 616 255 L584 306 Q358 370 132 306 Z" fill="#292f2f"/>
+  <path d="M160 318 Q358 378 556 318 L530 360 Q358 410 186 360 Z" fill="#2d3130"/>
+  <rect x="172" y="360" width="372" height="112" fill="#a63c25"/>
+  <g fill="#d2a24b"><rect x="193" y="382" width="36" height="70"/><rect x="254" y="382" width="36" height="70"/><rect x="315" y="382" width="36" height="70"/><rect x="376" y="382" width="36" height="70"/><rect x="437" y="382" width="36" height="70"/><rect x="498" y="382" width="26" height="70"/></g>
+  <rect x="120" y="472" width="476" height="24" fill="#d7cdb5"/>
+  <path d="M110 496 h496" stroke="#c6bca4" stroke-width="28"/>
+  <path d="M250 496 l-50 160 M466 496 l50 160" stroke="#b5aa92" stroke-width="12"/>
+</g>
+<path d="M0 670 H1086" stroke="#8a8070" stroke-width="2" opacity=".3"/>
+<g transform="translate(0,670)">
+  <circle cx="225" cy="165" r="145" fill="#8db7c2" opacity=".78"/>
+  <circle cx="225" cy="165" r="92" fill="none" stroke="#d29a32" stroke-width="7"/>
+  <g transform="translate(75,180) scale(.72)"><path d="M260 0 L225 45 L90 105 L35 160 L485 160 L430 105 L295 45 Z" fill="#282b2a"/><path d="M60 160 Q260 215 460 160 L430 200 Q260 250 90 200 Z" fill="#282b2a"/><path d="M105 205 Q260 250 415 205 L390 240 Q260 275 130 240 Z" fill="#282b2a"/></g>
+  <rect x="155" y="350" width="300" height="132" fill="#b64a2d" opacity=".9"/>
+  <path d="M226 375 h95 v110 h-95 z M273 485 v100" fill="none" stroke="#33302c" stroke-width="3"/>
+  <text x="495" y="82" font-family="Georgia,serif" font-size="27" font-style="italic" fill="#3a3731">circle of sky</text>
+  <text x="495" y="118" font-family="Georgia,serif" font-size="27" font-style="italic" fill="#3a3731">three roofs</text>
+  <text x="495" y="154" font-family="Georgia,serif" font-size="27" font-style="italic" fill="#3a3731">one breath</text>
+  <circle cx="660" cy="175" r="22" fill="#d59b2d"/>
+  <g transform="translate(785,72)"><rect width="220" height="40" fill="#557b7e"/><path d="M28 20 h165" stroke="#d8b76b" stroke-width="5" stroke-dasharray="10 7"/><path d="M15 103 Q110 42 205 103 Z" fill="#302d2a"/><rect x="32" y="138" width="184" height="48" fill="#ad442d"/><rect x="58" y="152" width="130" height="18" fill="#d39f3b"/></g>
+  <g opacity=".55" fill="#cfc4ac"><rect x="465" y="295" width="320" height="24"/><rect x="485" y="330" width="280" height="18"/><rect x="505" y="362" width="240" height="18"/></g>
+  <g transform="translate(45,555)" fill="#353430"><circle cx="15" cy="10" r="9"/><rect x="9" y="20" width="12" height="30"/><circle cx="50" cy="10" r="9"/><rect x="44" y="20" width="12" height="30"/><circle cx="85" cy="10" r="9"/><rect x="79" y="20" width="12" height="30"/><circle cx="120" cy="10" r="9"/><rect x="114" y="20" width="12" height="30"/></g>
+  <path d="M445 640 Q580 560 715 640 Z" fill="#c58d2e" opacity=".8"/>
+  <text x="735" y="610" font-family="Georgia,serif" font-size="24" font-style="italic" fill="#403c35">step by step</text>
+  <text x="735" y="642" font-family="Georgia,serif" font-size="24" font-style="italic" fill="#403c35">toward the heart</text>
+  <text x="735" y="674" font-family="Georgia,serif" font-size="24" font-style="italic" fill="#403c35">of quiet.</text>
+  <circle cx="910" cy="365" r="58" fill="#8cb5c0"/>
+  <path d="M910 300 v130" stroke="#33302d" stroke-width="2"/>
+  <circle cx="910" cy="452" r="4" fill="#33302d"/><circle cx="910" cy="474" r="4" fill="#33302d"/><circle cx="910" cy="496" r="4" fill="#33302d"/>
+  <g stroke="#33302d" stroke-width="3"><path d="M870 575 h155"/><path d="M885 599 h125"/><path d="M885 623 h125"/><path d="M885 647 h125"/></g>
+  <rect width="1086" height="778" filter="url(#paper)" opacity=".8"/>
+</g>
+</svg>
